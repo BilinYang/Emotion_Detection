@@ -8,7 +8,7 @@ Supports live webcam streams and pre-recorded videos.  </h4>
   
   <h3 style="color: #21618c;">1️⃣ Clone the repository</h3>
   <pre style="background-color: #f4f6f6; padding: 12px; border-radius: 6px; border: 1px solid #d6eaf8;">
-<code>git clone https://github.com/bilinyang/Emotion_Dectector.git
+<code>git clone https://github.com/BilinYang/Emotion_Dectector.git
 cd Emotion_Detector</code></pre>
   
   <h3 style="color: #21618c; margin-top: 25px;">2️⃣ Create Conda Environment</h3>
