@@ -1,5 +1,5 @@
 <h1 align="center">Emotion Detection with Deep Learning Models</h1>
-<h4>Real-time and video-based emotion recognition using deep learning (VGG/LeNet/GoogleNet).  
+<h4>Real-time and video-based emotion recognition using deep learning (VGG/LeNet/GoogLeNet).  
 Supports live webcam streams and pre-recorded videos.  </h4>
 
 
