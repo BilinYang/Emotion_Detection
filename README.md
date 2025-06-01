@@ -53,8 +53,29 @@ conda activate &lt;venv_name&gt;</code></pre>
 
 <hr style="border: 1px solid #ddd;">
 
+
+
 <h1 style="visibility: hidden;">&nbsp;</h1>
-<h3 style="color: #2874a6;">1️⃣ Train a Model</h3>
+<h3 style="color: #2874a6;">1️⃣ Built Dataset</h3>
+
+<pre style="background-color: #f4f6f6; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">
+<code>python emo_rec/build_dataset.py</code></pre>
+
+<div style="background-color: #eaf2f8; padding: 10px; border-radius: 5px; border-left: 4px solid #2874a6;">
+  <strong>📁 Output:</strong>
+  <ul>
+    <li>The training, validation, and testing datasets will be stored under <code>datasets/fer2013/hdf5</code></li>
+  </ul>
+</div>
+
+<hr style="border: 1px solid #ddd;">
+
+
+
+
+
+<h1 style="visibility: hidden;">&nbsp;</h1>
+<h3 style="color: #2874a6;">2️⃣ Train a Model</h3>
 
 <h4>Option A: Specify the Model You Want to Train</h4>
 <pre style="background-color: #f4f6f6; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">
@@ -88,7 +109,7 @@ conda activate &lt;venv_name&gt;</code></pre>
 
 
 <h1 style="visibility: hidden;">&nbsp;</h1>
-<h3 style="color: #2874a6;">2️⃣ Test a Model</h3>
+<h3 style="color: #2874a6;">3️⃣ Test a Model</h3>
 
 <pre style="background-color: #f4f6f6; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">
 <code>python emo_rec/test_emotion_detector.py -m &lt;model_name&gt;</code></pre>
@@ -112,7 +133,7 @@ conda activate &lt;venv_name&gt;</code></pre>
 
 
 <h1></h1>
-<h3 style="color: #2874a6;">3️⃣ Run Emotion Detection</h3>
+<h3 style="color: #2874a6;">4️⃣ Run Emotion Detection</h3>
 
 <h4>Option A: Process Video File</h4>
 <pre style="background-color: #f4f6f6; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">
