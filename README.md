@@ -1,4 +1,6 @@
-<h1 align="center">Emotion Recognition System</h1>
+<h1 align="center">Emotion Detector</h1>
+<h4>Real-time and video-based emotion recognition using deep learning (VGG/LeNet/GoogleNet).  
+Supports live webcam streams and pre-recorded videos.  </h4>
 
 
 <div style="background-color: #eaf2f8; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #3498db;">
