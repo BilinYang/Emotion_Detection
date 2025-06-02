@@ -4,7 +4,7 @@ Supports live webcam streams and pre-recorded videos.  </h4>
 
 
 <div style="background-color: #eaf2f8; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #3498db;">
-  <h2 style="color: #2874a6; margin-top: 0;">🔧 Basic Setup</h2>
+  <h2 align="center" style="color: #2874a6; margin-top: 0;">🔧 Basic Setup</h2>
   
   <h3 style="color: #21618c;">1️⃣ Clone the repository</h3>
   <pre style="background-color: #f4f6f6; padding: 12px; border-radius: 6px; border: 1px solid #d6eaf8;">
